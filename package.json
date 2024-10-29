@@ -1,0 +1,14 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "description": "this advanced javascript project builds a slot machine on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
